@@ -1,0 +1,6 @@
+﻿  GameManager.cpp
+C:\Users\A3636\source\repos\platsource\platsource\movebox.h(87,27): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameManager.cpp'을(를) 컴파일하는 중)
+  
+x64\Debug\GameLogic.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  platsource.vcxproj -> C:\Users\A3636\source\repos\platsource\x64\Debug\platsource.exe
